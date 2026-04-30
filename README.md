@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danial Ebi</h1>
-<h3 align="center">A Passionate Developer from [Your Country]</h3>
+<h3 align="center">A Passionate Developer from INDIA</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -16,8 +16,7 @@
 
 - 🌱 I'm currently learning **[Technology/Framework]**
 - 💬 Ask me about **[Your Skills]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 How to reach me: **daniel12ebi@gmail.com**
 
 ---
 
