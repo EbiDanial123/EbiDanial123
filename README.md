@@ -119,6 +119,7 @@
 
 ## 🎵 Coding Vibes
 
+
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
 </p>
