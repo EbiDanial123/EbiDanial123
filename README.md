@@ -86,7 +86,7 @@
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EbiDanial123/EbiDanial123/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/EbiDanial123/EbiDanial123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
