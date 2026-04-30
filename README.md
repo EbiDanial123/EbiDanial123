@@ -118,9 +118,8 @@
 ---
 
 ## 🎵 Coding Vibes
-
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hggw7l4b6ctl2v2znf7drs2iai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hggw7l4b6ctl2v2znf7drs2iai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
 </p>
 
 ---
