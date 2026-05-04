@@ -1,137 +1,157 @@
-<h1 align="center">✨ Hey, I'm Daniel Ebi 👨‍💻</h1>
-<h3 align="center">🚀 Building Digital Experiences | 🤖 AI/ML Explorer | 🌍 Open Source Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+Coding+Universe!;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Innovator+%F0%9F%A4%96;Creative+Problem+Solver+%F0%9F%94%A5;Transforming+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/EbiDanial123">
-    <img src="https://img.shields.io/github/followers/EbiDanial123?label=Followers&style=for-the-badge&color=00F7FF"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=EbiDanial123&label=Visitors&style=for-the-badge&color=8A2BE2"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge"/>
-</p>
-
----
-
 <div align="center">
 
-## 🌌 About Me
-
-</div>
-
-<img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-### 👨‍🚀 Developer Profile:
-- 🔭 Currently crafting **Portfolio-worthy Full Stack Projects**
-- 🌱 Mastering **Django | React | AI/ML | Deployment**
-- 🧠 Passionate about solving **real-world problems through code**
-- 💬 Ask me about **Python, Web Dev, Machine Learning, Career Growth**
-- ⚡ Motto: **Code. Learn. Build. Repeat.**
-- 🎯 Mission: **Become a world-class software engineer**
-- ☕ Powered by **Coffee + Curiosity**
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,javascript,nodejs,html,css,bootstrap,mysql,sqlite,git,github,vscode,figma,linux&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20HTML%20%7C%20CSS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Python-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQLite-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VSCode-red?style=for-the-badge"/>
-</p>
-
----
-
-# 📊 GitHub Command Center
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EbiDanial123&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EbiDanial123&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbiDanial123&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievement Galaxy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EbiDanial123&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-## 📈 Activity Matrix
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EbiDanial123&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EbiDanial123/EbiDanial123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel23ebi">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:daniel12ebi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://github.com/EbiDanial123">
-    <img src="https://img.shields.io/badge/GitHub-Code%20Hub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💭 Daily Inspiration
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 🎵 Coding Vibes
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hggw7l4b6ctl2v2znf7drs2iai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
-</p>
-
----
-
-<div align="center">
-
-### 🔥 “First, solve the problem. Then, write the code.” – John Johnson
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a1a2e,100:16213e&height=280&section=header&text=Daniel%20Ebi&fontSize=72&fontColor=E8D5B7&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Open%20Source%20Contributor&descSize=16&descAlignY=68&animation=fadeIn&fontStyle=italic" />
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
+
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                                                                 │
+  │   Full-stack engineer obsessed with clean architecture,         │
+  │   intelligent systems, and products that actually ship.         │
+  │   Currently exploring the intersection of AI and developer UX.  │
+  │                                                                 │
+  └─────────────────────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel23ebi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel23ebi)
+[![Email](https://img.shields.io/badge/Email-daniel12ebi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daniel12ebi@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/EbiDanial123?label=Follow&style=flat-square&color=181717&logo=github)](https://github.com/EbiDanial123)
+![Profile Views](https://komarev.com/ghpvc/?username=EbiDanial123&style=flat-square&color=6e40c9)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```python
+class Daniel:
+    name        = "Daniel Ebi"
+    title       = "Full Stack Developer & AI/ML Engineer"
+    languages   = ["Python", "JavaScript", "SQL", "Bash"]
+    frameworks  = ["Django", "React", "Node.js", "Bootstrap"]
+    databases   = ["MySQL", "SQLite"]
+    tools       = ["Git", "GitHub", "VSCode", "Figma", "Linux"]
+    currently   = "Building production-grade full-stack projects"
+    learning    = ["Advanced AI/ML", "Cloud Deployment", "System Design"]
+    motto       = "Code. Learn. Build. Repeat. 🚀"
+```
+
+---
+
+## `$ ls -la skills/`
+
+<div align="center">
+
+### Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
+
+### Interface & Data
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Toolchain
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+</div>
+
+---
+
+## `$ cat metrics.json`
+
+<div align="center">
+
+<a href="https://github.com/EbiDanial123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EbiDanial123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EbiDanial123&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9" />
+</a>
+
+<a href="https://github.com/EbiDanial123">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbiDanial123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+</a>
+
+</div>
+
+---
+
+## `$ git log --trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EbiDanial123&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## `$ tail -f activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EbiDanial123&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff" />
+
+</div>
+
+---
+
+## `$ watch contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EbiDanial123/EbiDanial123/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+
+</div>
+
+---
+
+## `$ ping daniel.dev`
+
+<div align="center">
+
+```
+PING daniel.dev — Always open to:
+  ● Interesting collaborations
+  ● Open source contributions
+  ● Freelance projects
+  ● Meaningful conversations
+
+Reply time: < 24h  |  Status: 🟢 AVAILABLE
+```
+
+[![LinkedIn](https://img.shields.io/badge/DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel23ebi)
+[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel12ebi@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=140&section=footer&text=Build%20something%20remarkable.&fontSize=20&fontColor=58a6ff&animation=fadeIn&fontAlignY=65" />
+
+</div>
